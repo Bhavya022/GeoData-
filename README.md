@@ -3,7 +3,7 @@ GeoData is an app that gives you location based time, weather and map data. Just
 # GeoData
 Desktop                    |                    Mobile
 :-------------------------:|:-------------------------:
-![GeoData API on Desktop](./assets/css/images/designs/GeoDataAPIDesktopNY.png)  |  ![GeoData API on Mobile](./assets/css/images/designs/GeoDataAPIMobileLoad.png)
+![GeoData API on Desktop](./css/images/designs/GeoDataAPIDesktopNY.png)  |  ![GeoData API on Mobile](./css/images/designs/GeoDataAPIMobileLoad.png)
 
 ## Application Function
 GeoData
